@@ -1,1 +1,1 @@
-Olá, meu nome é **Christian** e estou *aprendendo* a trabalhar com o __*MarkDown*__ e já aprendi a programar em **Portugol Studio**
+Olá, meu nome é Christian, tenho 15 anos, estudo no colégio **TecPuc** e faço na área de informatica, gosto muito de **programar** e jogar **vôlei**, atualmente estou treinando no vôlei para um interclasse que vai ter no sábado dessa semana.
