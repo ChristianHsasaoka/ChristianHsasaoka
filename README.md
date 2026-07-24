@@ -4,9 +4,12 @@
   <h1>Computer Science student</h1>
 </p>
 
-[Meu LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/christian-sasaoka-5584b3312/))
+<p align="center">
+  <img src="https://githubusercontent.com" width="16" height="16"> <a href="https://www.linkedin.com/in/christian-sasaoka-5584b3312/">Linkedin</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="16" height="16"> <a href="mailto:chrissasaoka8257@gmail.com">E-mail</a>
+</p>
 
-[Enviar E-mail](mailto:chrissasaoka8257@gmail.com)
 
 ---
 
