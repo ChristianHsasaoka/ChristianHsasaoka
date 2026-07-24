@@ -20,8 +20,8 @@
         Passionate about technology, software development, and solving real-world problems through code. I have experience with Python, Java, JavaScript, React, Node.js, SQL, databases, and web development. I am also interested in cloud computing, cybersecurity, automation, artificial intelligence, and SAP. I am always looking for new opportunities to learn, improve my skills, and build useful projects.
       </p>
     </td>
-    <td valign="top" align="right" width="20%">
-      <img src="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true" width="120">
+    <td valign="top" align="right" width="40%">
+      <img src="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true" width="180">
     </td>
   </tr>
 </table>
