@@ -1,4 +1,4 @@
-![image alt](https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d2a6cc7134978023c1149b3b27b305d4.gif?raw=true)
+![image alt](https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/2ffd51da88b475530a5ec406c374be7f.webp?raw=true)
 
 
 Computer Science student<br><br>
