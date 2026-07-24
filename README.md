@@ -1,8 +1,6 @@
 ![image alt](https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/2ffd51da88b475530a5ec406c374be7f.webp?raw=true)
 
-<p align="center">
-  <h1>Computer Science student</h1>
-</p>
+<h1 align="center">Computer Science Student </h1>
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/christian-sasaoka-5584b3312/)">
