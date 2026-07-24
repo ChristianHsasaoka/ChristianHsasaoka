@@ -35,8 +35,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
   <img src="https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
@@ -44,5 +44,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dashboard%20Development-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboard Development">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
 </p>
