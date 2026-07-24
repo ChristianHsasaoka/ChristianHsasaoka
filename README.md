@@ -3,10 +3,18 @@
 <p align="center"><img src="./titulo.svg" alt=""></p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/christian-sasaoka-5584b3312/)">
+  <a href="https://www.linkedin.com/in/christian-sasaoka-5584b3312/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn">
   </a>
+
   &nbsp;&nbsp;
+
   <a href="mailto:chrissasaoka8257@email.com">
+    <img
+      src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="E-mail">
   </a>
 </p>
 
