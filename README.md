@@ -35,23 +35,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
   <img src="https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis">
-  <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/Data%20Management-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Management">
-  <img src="https://img.shields.io/badge/Database%20Design-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="Database Design">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Dashboard%20Development-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboard Development">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning">
-  <img src="https://img.shields.io/badge/Business%20Process%20Optimization-000000?style=for-the-badge&logo=sap&logoColor=white" alt="Business Process Optimization">
 </p>
