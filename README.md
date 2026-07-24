@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="./imagem.png" width="200" alt="Minha imagem">
+      <img src="./imagem.png" width="200" alt="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true">
     </td>
     <td width="65%">
       <h2>About me</h2>
