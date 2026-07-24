@@ -5,10 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="16" height="16"> <a href="https://www.linkedin.com/in/christian-sasaoka-5584b3312/">Linkedin</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="16" height="16"> <a href="mailto:chrissasaoka8257@gmail.com">E-mail</a>
+  <a href="(https://www.linkedin.com/in/christian-sasaoka-5584b3312/)">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chrissasaoka8257@email.com">
+    <img src="https://shields.io" alt="E-mail">
+  </a>
 </p>
+
 
 
 ---
