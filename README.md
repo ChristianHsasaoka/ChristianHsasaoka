@@ -10,14 +10,18 @@
 
 <table>
   <tr>
-    <td width="35%" align="right">
-      <img src="./imagem.png" width="200" alt="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true">
-    </td>
-    <td width="35%">
-      <h2>About me!</h2>
+    <td valign="top" width="80%">
+      <h2>About me</h2>
+      <p>
+        I'm a Computer Science student interested in software development,
+        technology and continuous learning.
+      </p>
       <p>
         Passionate about technology, software development, and solving real-world problems through code. I have experience with Python, Java, JavaScript, React, Node.js, SQL, databases, and web development. I am also interested in cloud computing, cybersecurity, automation, artificial intelligence, and SAP. I am always looking for new opportunities to learn, improve my skills, and build useful projects.
       </p>
+    </td>
+    <td valign="top" align="right" width="20%">
+      <img src="./imagem.png" width="120" alt="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true">
     </td>
   </tr>
 </table>
