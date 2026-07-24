@@ -44,5 +44,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dashboard%20Development-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboard Development">
-  <img src="https://img.shields.io/badge/A%20I-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
 </p>
