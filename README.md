@@ -10,7 +10,7 @@
   </a>
 
   &nbsp;&nbsp;
-  <p align="center">
+  
   <a href="mailto:chrissasaoka8257@email.com">
     <img
       src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white"
