@@ -21,7 +21,7 @@
       </p>
     </td>
     <td valign="top" align="right" width="20%">
-      <img src="./imagem.png" width="120" alt="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true">
+      <img src="https://github.com/ChristianHsasaoka/ChristianHsasaoka/blob/main/d3beb4a4febf7c84f64bfddcb8b1712b.webp?raw=true" width="120">
     </td>
   </tr>
 </table>
