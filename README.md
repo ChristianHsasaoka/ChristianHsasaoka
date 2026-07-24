@@ -4,11 +4,9 @@
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/christian-sasaoka-5584b3312/)">
-    <img src="https://shields.io" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:chrissasaoka8257@email.com">
-    <img src="https://shields.io" alt="E-mail">
   </a>
 </p>
 
