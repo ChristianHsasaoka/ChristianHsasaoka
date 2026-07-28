@@ -61,7 +61,7 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Office-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Office">
+      <img src="https://img.shields.io/badge/Pacote%20Office-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Pacote Office">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
