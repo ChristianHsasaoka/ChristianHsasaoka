@@ -32,23 +32,19 @@
     <img height="28" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img height="28" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     <img height="28" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </p>
-
-  <p>
+    <img height="28" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img height="28" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img height="28" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img height="28" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-    <img height="28" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </p>
 
   <p>
-    <img height="28" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img height="28" src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
     <img height="28" src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
   </p>
 
   <p>
     <img height="28" src="https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
-    <img height="28" src="https://img.shields.io/badge/Dashboard%20Development-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboard Development">
     <img height="28" src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
   </p>
 
