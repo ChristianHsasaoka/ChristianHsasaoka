@@ -49,10 +49,10 @@
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
@@ -67,10 +67,7 @@
       <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Dashboards-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboards">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
+      <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
     </td>
   </tr>
 </table>
