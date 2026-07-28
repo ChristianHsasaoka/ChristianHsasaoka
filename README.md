@@ -33,15 +33,12 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     </td>
@@ -51,15 +48,12 @@
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
     </td>
@@ -69,15 +63,12 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Office-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Office">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/Dashboards-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboards">
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
     </td>
