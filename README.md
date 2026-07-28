@@ -33,7 +33,7 @@
     <img height="28" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     <img height="28" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img height="28" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img height="28" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img height="28" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img height="28" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img height="28" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </p>
