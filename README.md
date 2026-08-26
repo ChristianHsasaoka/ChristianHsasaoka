@@ -46,13 +46,16 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Next.js">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="React">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="API REST">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
