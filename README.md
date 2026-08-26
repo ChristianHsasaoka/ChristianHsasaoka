@@ -37,13 +37,10 @@
       <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
     </td>
   </tr>
 
