@@ -42,20 +42,20 @@
     <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
+    </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Next.js">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=css3&logoColor=white" alt="React">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="React">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="API REST">
+      <img src="https://img.shields.io/badge/API REST-000000?style=for-the-badge&logo=sap&logoColor=white" alt="API REST">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
