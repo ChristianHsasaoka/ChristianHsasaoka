@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=php&logoColor=white" alt="php">
+      <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="php">
     </td>
   </tr>
 
