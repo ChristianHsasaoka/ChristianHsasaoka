@@ -26,53 +26,29 @@
 
 ---
 
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="php">
-    </td>
-  </tr>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  </p>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Next.js">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=css3&logoColor=white" alt="React">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/API REST-000000?style=for-the-badge&logo=sap&logoColor=white" alt="API REST">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
-    </td>
-  </tr>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/API%20REST-000000?style=for-the-badge&logo=postman&logoColor=white" alt="API REST">
+    <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+  </p>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pacote%20Office-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Pacote Office">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Pacote%20Office-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Pacote Office">
+    <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+    <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+  </p>
 
 </div>
+
